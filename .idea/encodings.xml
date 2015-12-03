@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/ApplicationVersion.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/DateConverter.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/DateHandle.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/Enums.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/GlobalFunctions.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/PersainCalendar.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/classes/SendRedirectNullRole.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/AbstractJpaDao.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/CodingDAO.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/CodingDAOTest.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/JpaDao.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/SettingsDAO.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/SettingsDAOImpl.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/AccountContext.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/AuditableDate.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/HibernateFilterContext.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/HibernateGenericDao.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/HibernateUtil.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/NamedQueryUtilHibernate.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/SaveOrUpdateDateListener.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/hibernate/package-info.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/GenericDao.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/NamedQueryUtil.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/OrderBy.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/OrderByDirection.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/SearchMode.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/SearchTemplate.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/dao/support/package-info.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/domain/BaseEntity.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/domain/Coding.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/domain/Identifiable.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/domain/ObjectMappingUtil.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/domain/Settings.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/service/CommonFormService.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/src/main/java/common/service/CommonFormServiceImp.java" charset="windows-1256" />
+  </component>
+</project>

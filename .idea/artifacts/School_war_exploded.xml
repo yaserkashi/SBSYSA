@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="School:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/School_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="School/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="School" />
+          <element id="library" level="project" name="com.springsource.org.apache" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 4.2.2-4.2.2" />
+          <element id="library" level="project" name="Spring-4.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring Security-3.2.5" />
+          <element id="library" level="project" name="common-annotations" />
+          <element id="library" level="project" name="javax.faces-2.2.5" />
+          <element id="library" level="project" name="repository" />
+          <element id="library" level="project" name="skyway-spring-utils-7.1.0" />
+          <element id="library" level="project" name="junit-4.11" />
+          <element id="library" level="project" name="groovy-all-2.4.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
